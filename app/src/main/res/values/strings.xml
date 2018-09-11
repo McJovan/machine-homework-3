@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BURGER ORDER FORM</string>
+    <string name="review_page">REVIEW ORDER PAGE</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="back_button">BACK</string>
+    <string name="tv_burger">Types of Burger:</string>
+    <string name="tv_addon">Add-Ons:</string>
+</resources>
